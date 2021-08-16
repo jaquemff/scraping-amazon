@@ -1,2 +1,2 @@
 # scrapping-amazon
-Scrapping nas duas primeiras páginas da Amazon dos livros mais vendidos.
+Scrapping na primeira página da Amazon dos anúncios referentes a palavra "Iphone".
